@@ -15,3 +15,5 @@ If you open the Jupyter Notebook file you can see my python code as well as the 
 # Nobel Prizes by Gender from 1901 to 2019  
 
 To continue with the trend of female representation, I was curious to see the relation of Nobel Prizes won by women compared to men. Thus, I decided to employ pandas and Matplotlib to construct the pie chart below.  
+
+![image](https://user-images.githubusercontent.com/54301233/90086137-b75b6e00-dce7-11ea-9469-9d63c3320969.png)
